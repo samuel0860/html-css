@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap');
+
+boby{
+  margin: 0%;
+  padding: 0%;
+  font-family: 'poppin', sans-serif;
+  color: #1e1e2a;
+}
+/* HADER*/
+
+.header-container{
+height: 100vh;
+width: 100vw;
+background-color: aqua;
+background-image: url();
+}
